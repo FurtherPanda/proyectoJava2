@@ -1,12 +1,12 @@
 # Proyecto Java: Cálculo de Promedio y Calificación de Alumnos
 
-## 📋 Descripción
+## Descripción
 Este proyecto implementa una clase en Java para calcular el promedio y la calificación final de un alumno basado en 5 calificaciones. Forma parte de un ejercicio académico que demuestra el uso de clases, métodos, arrays y estructuras de control en Java.
 
-## 🏗️ Estructura del Proyecto
+## Estructura del Proyecto
 
 
-## 📊 Clase `Alumno`
+## Clase `Alumno`
 
 ### Atributos
 - `nombre` (String): Nombre del estudiante
