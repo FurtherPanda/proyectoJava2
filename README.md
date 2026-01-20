@@ -57,7 +57,7 @@ javac src/Alumno.java
 # 3. Ejecutar el programa
 java -cp src Alumno
 
-Alternativa
+#Alternativa
 cd src
 javac Alumno.java
 java Alumno
