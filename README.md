@@ -39,7 +39,7 @@ Este proyecto implementa una clase en Java para calcular el promedio y la califi
 | 51 - 60           | E            | Mínimo aprobado  |
 | 0 - 50            | F            | Reprobado        |
 
-## 🚀 Compilación y Ejecución
+## Compilación y Ejecución
 
 ### Requisitos
 - Java JDK 8 o superior
